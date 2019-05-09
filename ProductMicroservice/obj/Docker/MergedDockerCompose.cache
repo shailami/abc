@@ -1,0 +1,19 @@
+services:
+  productmicroservice:
+    build:
+      context: C:\Users\Shailaja\source\repos\ProductMicroservice
+      dockerfile: ProductMicroservice/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44373'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: productmicroservice
+    ports:
+    - published: 49969
+      target: 80
+    - published: 44373
+      target: 443
+    volumes:
+    - C:\Users\Shailaja\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Shailaja\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

@@ -1,0 +1,15 @@
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.deps.json
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.runtimeconfig.json
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.runtimeconfig.dev.json
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.dll
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.pdb
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.RazorAssemblyInfo.cache
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.RazorAssemblyInfo.cs
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.AssemblyInfoInputs.cache
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.AssemblyInfo.cs
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.dll
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.pdb
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.csprojAssemblyReference.cache
+C:\Users\Shailaja\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
